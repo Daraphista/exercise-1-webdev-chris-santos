@@ -117,10 +117,10 @@ main .nav a:hover {
   color: rgb(172, 172, 172)
 }
 
-main section ul.references li {
+main section ol.references li {
   font-size: 1.75rem;
 }
 
-main section ul.references a {
+main section ol.references a {
   color: rgb(161, 51, 161);
 }
