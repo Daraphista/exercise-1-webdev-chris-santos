@@ -124,3 +124,24 @@ main section ol.references li {
 main section ol.references a {
   color: rgb(161, 51, 161);
 }
+
+main section table {
+  width: 100%;
+}
+
+main section table * {
+  border: 1px solid #464646;
+  padding: .5rem;
+}
+
+main section table tr:nth-child(even) {
+  background-color: #333333;
+}
+
+main section table td[colspan="2"] {
+  text-align: center;
+}
+
+main section table.tabular-images {
+  height: 50rem;
+}
